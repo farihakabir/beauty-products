@@ -1,0 +1,83 @@
+.Style{
+    color: rgb(245, 245, 245);
+    padding: 50px;
+    border: brown;
+    border-radius: 40px;
+    margin-top: 30px;
+    background-color: burlywood;
+    box-shadow: 2px 3px 4px 5px goldenrod;
+}
+.Image{
+    width: 1300px;
+    height: 500px;
+}
+.Header{
+    margin: 15px;
+    display: flex;
+    background-color:lightpink;
+}
+.link{
+    margin-right: 70px;
+    padding: 30px;
+    color: blueviolet;
+    font-weight: 800;
+}
+
+.link a{
+    text-decoration: none;
+}
+.link a:hover{
+    color: whitesmoke;
+}
+.Stone{
+    color: black;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.Facebook{
+    height: 30px;
+    width: 50px;
+}
+.Instagram{
+    height: 30px;
+    width: 50px;
+}
+.Twitter{
+    height: 30px;
+    width: 50px;
+}
+.a:hover{
+background-color: red;
+}
+.Packet{
+    background-color: pink;
+    align-content: center;
+    display: flexbox;
+    text-decoration: palegoldenrods;
+}
+.Products{
+    font-size: 20px;
+    color: blueviolet;
+}
+.Bodyshop{
+ height: 100px;   
+}
+.Cetaphil{
+    height: 100px;
+}
+.Beauty{
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.Title{
+    color: violet;
+    text-size-adjust: 10%;
+}
+.Container{
+    align-content: center;
+    display: inline-flexbox;
+}
